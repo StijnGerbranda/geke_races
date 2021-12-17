@@ -1,0 +1,1 @@
+tellraw @s ["",{"text": "Let it rip!!!", "color": "#3498DB"}]

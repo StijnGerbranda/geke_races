@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "minecraft:redstone"
+        },
+        {
+            "item": "minecraft:glowstone_dust"
+        },
+        {
+            "item": "minecraft:gunpowder"
+        }
+    ],
+    "result": {
+        "item": "minecraft:redstone",
+        "count": 1,
+        "function": "minecraft:set_lore",
+        "lore": [{
+            "text": "test"
+        }]
+    }
+}
