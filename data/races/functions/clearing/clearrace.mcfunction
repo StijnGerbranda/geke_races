@@ -1,6 +1,7 @@
 scale reset @s
 
 scoreboard players set @s hasRace 0
+scoreboard players set @s race 0
 scoreboard players set @s DeathTrigger 0
 scoreboard players set @s vanish 0
 

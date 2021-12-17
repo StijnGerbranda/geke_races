@@ -1,1 +1,1 @@
-function races:races/races/darkelf/vanish
+execute if score @s vanish matches 1.. run function races:races/races/darkelf/vanish
