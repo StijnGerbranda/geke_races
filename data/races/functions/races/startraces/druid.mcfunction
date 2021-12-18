@@ -1,0 +1,1 @@
+tellraw @s ["",{"text": "Poison is the best, a shame it burns so well.", "color": "#90EE90"}]
