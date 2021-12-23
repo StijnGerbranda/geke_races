@@ -129,4 +129,11 @@
         "action": "run_command",
         "value": "/trigger race set 18"
     }
+}, {
+    "text": "Demons\n",
+    "color": "#580E0E",
+    "clickEvent": {
+        "action": "run_command",
+        "value": "/trigger race set 19"
+    }
 }
