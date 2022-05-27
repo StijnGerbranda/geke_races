@@ -1,0 +1,9 @@
+execute if predicate races:sotf/sotf_veryveryverybad run say veryveryverybad
+execute if predicate races:sotf/sotf_veryverybad run say veryverybad
+execute if predicate races:sotf/sotf_verybad run say verybad
+execute if predicate races:sotf/sotf_bad run say bad
+execute if predicate races:sotf/sotf_neutral run say neutral
+execute if predicate races:sotf/sotf_good run say good
+execute if predicate races:sotf/sotf_verygood run say verygood
+execute if predicate races:sotf/sotf_veryverygood run say veryverygood
+execute if predicate races:sotf/sotf_veryveryverygood run say veryveryverygood

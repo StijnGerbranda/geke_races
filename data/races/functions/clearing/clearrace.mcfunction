@@ -1,4 +1,5 @@
 scale reset @s
+tag @s remove forcefield
 
 scoreboard players set @s hasRace 0
 scoreboard players set @s race 0

@@ -136,4 +136,11 @@
         "action": "run_command",
         "value": "/trigger race set 19"
     }
+}, {
+    "text": "Spirit Of the Forest\n",
+    "color": "#580E0E",
+    "clickEvent": {
+        "action": "run_command",
+        "value": "/trigger race set 20"
+    }
 }

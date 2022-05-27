@@ -1,0 +1,1 @@
+tellraw @s ["",{"text": "Welkom, Get to the trees", "color": "#AD7EC2"}]
